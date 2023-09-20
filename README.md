@@ -38,6 +38,7 @@ ______
 ______
 ## 📊 Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrLevys&theme=transparent&bg_color=333&border_color=A5E727&show_icons=true&icon_color=A5E727&title_color=A5E727&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrLevys&layout=compact&bg_color=333&border_color=A5E727&title_color=A5E727&text_color=fff)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mrLevys&layout=donut-vertical&bg_color=333&border_color=A5E727&title_color=A5E727&text_color=fff&cache_seconds=0)
 
 <div align="center"><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif"/></div>
